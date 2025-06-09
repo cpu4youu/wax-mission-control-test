@@ -1,1 +1,0 @@
-import{S as s}from"./index-c1420d3e.js";import{d as i}from"./use-transaction-ced31f7c.js";async function m(n,t){const{executeTransaction:a}=i(),o=r(n,t);return!!await a(o)}function r(n,t){return{actions:[{account:s.M__FEDERATION,name:"setbag",authorization:[{actor:n.name,permission:n.authorization.permission}],data:{account:n.name,items:t}}]}}export{m as e};
