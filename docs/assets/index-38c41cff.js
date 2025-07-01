@@ -1,1 +1,0 @@
-import{X as a,a0 as t}from"./index-d6117f89.js";function o(e){a(1,arguments);var r=t(e);return r.setHours(23,59,59,999),r}export{o as e};
