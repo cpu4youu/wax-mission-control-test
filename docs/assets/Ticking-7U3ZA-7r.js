@@ -1,1 +1,0 @@
-import{w as t,j as n}from"./index-uhIw_USX.js";function i({render:o,intervalMs:r=1e3}){const s=t(r);return n.jsx(n.Fragment,{children:o(s)})}export{i as T};
